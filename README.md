@@ -1,5 +1,5 @@
 # ShoppingFront
-# TCSS445ProjectC
+# TCSS445Project
 
 -Biirhanu Zerefa
 
